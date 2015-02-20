@@ -1,6 +1,6 @@
 {
-  "host": "10.211.55.3",
-  "prefix": "/nodejs/",
-  "port": 8080,
+  "host": "",
+  "prefix": "/",
+  "port": 80,
   "isSecure": false
 }
