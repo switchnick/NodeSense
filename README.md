@@ -1,6 +1,6 @@
 # NodeSense
 A basic example of using a NodeJS backend to integrate with the Qlik Sense Server Mashup API.
-NTOE: This solution is built to make configuration/distirbution simple and provide a foundation for understanding how to create such an environment. It is not designed as a basis for a production solution, however, you may wish to change some elements to make the solution more dynamic for your environment.
+NOTE: This solution is built to make configuration/distribution simple and provide a foundation for understanding how to create such an environment. It is not designed as a basis for a production solution, however, you may wish to change some elements to make the solution more dynamic for your environment.
 
 Pre-requisites:
 - NodeJS
