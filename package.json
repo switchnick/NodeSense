@@ -13,7 +13,8 @@
   "author": "Nick Webster",
   "license": "ISC",
   "dependencies": {
-    "qlik-auth" : "1.0.4"
+    "express": "^4.11.2",
+    "qlik-auth": "1.0.4"
   },
   "bugs": {
     "url": "https://github.com/switchnick/NodeSense/issues"
