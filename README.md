@@ -25,3 +25,6 @@ Configuration:
   2. Populate the 'Authentication module redirect URI' with - http://<node_server>:3000/authenticate
     - Port 3000 is configured in the index.js file of the NodeJS site and can be changed if desired.
   3. Add the following 'Additional response header' - Access-Control-Allow-Origin:*
+  4. Export the certificate, giving it the name of the NodeJS machine and copy it to the root of the NodeJS project.
+    - NOTE: Refer to the following link for help on exporting certificates
+    - http://help.qlik.com/sense/en-US/online/#../Subsystems/Qlik_Management_Console_help/Content/QMC_Resources_Certificates_Export.htm?Highlight=export
